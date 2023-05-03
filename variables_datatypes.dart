@@ -63,5 +63,11 @@ void main() {
   books['Chetan bhagat'] ='Two states';
   books['kalki'] = 'parthiban kannavu';
   print(books);
+
+  //runes
+   var king ='\u2654';
+   print(king);
+  var queen='\u2655';
+  print(queen);
 }
 
